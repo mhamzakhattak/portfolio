@@ -8,10 +8,10 @@ linkedin: https://www.linkedin.com/in/mhamzakhattak
 github: https://github.com/mhamzakhattak
 ---
 
-# 👋 I'm Hamza a.k.a kh4tt4k ⚡
 
-A Cyber Security under graduate , who loves to make and break things. A passionate programmer, hacker and CTF player.
-
+### Hey 👋 Its
+# Hamza Khattak
+## 🚀 A Guy in Cyber Security . Crafting Code & Breaking Applications. {/**/}.
 
 ## Skills
 
