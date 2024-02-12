@@ -1,5 +1,5 @@
 ---
-name: M Hamza Khattak
+name: Hamza Khattak
 avatar: /static/images/hamxa.jpg
 occupation: Security Analyst & CTF Player
 email: mhamzakhattak@proton.me
@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/mhamzakhattak
 github: https://github.com/mhamzakhattak
 ---
 
-# 👋 I'm M Hamza a.k.a Kh4tt4k ⚡
+# 👋 I'm Hamza a.k.a Kh4tt4k ⚡
 
 A Cyber Security under graduate , who loves to make and break things. A passionate programmer, hacker and CTF player.
 
