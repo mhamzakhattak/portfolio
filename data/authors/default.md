@@ -22,8 +22,8 @@ github: https://github.com/mhamzakhattak
 
 - **32nd Place** in [Black Hat MEA 2023 World Final](https://blackhatmea.com/capture-the-flag)
 - **2nd Place** in [ByteBolt CTF](https://www.byteboltsec.com/) organized by ByteBoltSec, online (2023)
-- **3rd Place** [in Digital Pakistan Cyber Security Hackathon Final organized by MoITT and IGNITE, on-site in Islamabad (2023)](https://www.linkedin.com/posts/hamzaharooon_ignite-cybersecurity-hackathon-activity-7146010829287600129-rmFp?utm_source=share)
-- **3rd Place** [in NUST Hackathon CTF organized by Military College of Signals (2023)](https://www.linkedin.com/posts/hamzaharooon_ctf-cybersecurity-teamgriffyns-activity-7067032676905435136-JQT2?utm_source=share)
+- **3rd Place** in [Digital Pakistan Cyber Security Hackathon](https://cyberhackathon.pk/) (2023)
+- **3rd Place** in [NUST Hackathon CTF](https://mcs.nust.edu.pk/) organized by Military College of Signals (2023)
 - **5th Place** in [DeconstruCTF 2023](https://ctftime.org/event/2042/) organized by DSC-VIT, online (2023)
 - **5th Place** in NasCon'23 CTF organized by FAST NUCES, on-site in Islamabad (2023)
 
@@ -45,7 +45,7 @@ github: https://github.com/mhamzakhattak
 ## Projects
 
 - [**video2text**](https://github.com/mhamzakhattak/video2text) - Video2text is a python based tool that extracts text from a video using Optical Character Recognition (OCR). It utilizes the OpenCV library for video processing and the pytesseract library for performing OCR.
-- [**Gmail Phisher**](https://github.com/thegr1ffyn/gmail-phisher) - Gmail Phisher is a powerful and user-friendly web based tool that is designed for conducting Gmail phishing attacks with ease.
+- [**Gmail Phisher**](https://github.com/mhamzakhattak/Gphisher) - Gmail Phisher is a powerful and user-friendly web based tool that is designed for conducting Gmail phishing attacks with ease.
 - [**Textor**](https://github.com/mhamzakhattak/Textor) - Textor is a GUI-based application written in Python that allows users to create, modify, and delete text files.
 
 ## Additional Experiences
