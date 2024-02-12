@@ -9,14 +9,23 @@ github: https://github.com/mhamzakhattak
 ---
 
 ### Hey 👋 Its
-# Hamza Khattak
+## Hamza Khattak
 ### 🚀 A Guy in Cyber Security . Crafting Code & Breaking Applications. {/**/}.
 
-## Skills
 
-- **Programming Languages**: Python, C, C++, C#, JavaScript, Bash, Batch, PowerShell, Go, Rust
-- **Tools & Frameworks**: IDA Pro, GDB, Volality, Docker, Metasploit, Burp Suite, Cobalt Strike, Nessus, Nmap, Impacket, OpenStack,volatility, autopsy, Magnet AXIOM
+## Skills
+- **Tools & Frameworks**: Nessus, Metasploit, Burp Suite, Cobalt Strike, Nmap, Impacket,IDA Pro, GDB, Volality, Autopsy, Magnet AXIOM, Kubernetes, Docker
+- **Programming Languages**: Python, C, C++, PHP, JavaScript, Bash, PowerShell, Go
 - **Platforms**: Linux, Windows, Vercel, AWS, Azure, GCP, DigitalOcean, Cloudflare
+
+## Achievements
+
+- **32nd Place** in [Black Hat MEA 2023 World Final](https://blackhatmea.com/capture-the-flag)
+- **2nd Place** in [ByteBolt CTF](https://www.byteboltsec.com/) organized by ByteBoltSec, online (2023)
+- **3rd Place** [in Digital Pakistan Cyber Security Hackathon Final organized by MoITT and IGNITE, on-site in Islamabad (2023)](https://www.linkedin.com/posts/hamzaharooon_ignite-cybersecurity-hackathon-activity-7146010829287600129-rmFp?utm_source=share)
+- **3rd Place** [in NUST Hackathon CTF organized by Military College of Signals (2023)](https://www.linkedin.com/posts/hamzaharooon_ctf-cybersecurity-teamgriffyns-activity-7067032676905435136-JQT2?utm_source=share)
+- **5th Place** in [DeconstruCTF 2023](https://ctftime.org/event/2042/) organized by DSC-VIT, online (2023)
+- **5th Place** in NasCon'23 CTF organized by FAST NUCES, on-site in Islamabad (2023)
 
 ## Experience
 
@@ -32,16 +41,6 @@ github: https://github.com/mhamzakhattak
 - CERTIFIED NETWORK SECURITY PRACTITIONER (CNSP) - [The SecOps Group](https://secops.group/product/certified-network-security-practitioner/)
 - NETWORK SECURITY EXPERT (NSE-3) - [Fortinet](https://www.fortinet.com/nse-training)
 - JUNIOR PENETRATION TESTER (JPT) - [TryHackMe](https://tryhackme.com/path/outline/jrpenetrationtester)
-
-## Achievements
-
-- **32nd Place** in [Black Hat MEA 2023 World Final](https://blackhatmea.com/capture-the-flag)
-- **2nd Place** in [ByteBolt CTF](https://www.byteboltsec.com/) organized by ByteBoltSec, online (2023)
-- **3rd Place** [in Digital Pakistan Cyber Security Hackathon Final organized by MoITT and IGNITE, on-site in Islamabad (2023)](https://www.linkedin.com/posts/hamzaharooon_ignite-cybersecurity-hackathon-activity-7146010829287600129-rmFp?utm_source=share)
-- **3rd Place** [in NUST Hackathon CTF organized by Military College of Signals (2023)](https://www.linkedin.com/posts/hamzaharooon_ctf-cybersecurity-teamgriffyns-activity-7067032676905435136-JQT2?utm_source=share)
-- **5th Place** in [DeconstruCTF 2023](https://ctftime.org/event/2042/) organized by DSC-VIT, online (2023)
-- **5th Place** in NasCon'23 CTF organized by FAST NUCES, on-site in Islamabad (2023)
-
 
 ## Projects
 
