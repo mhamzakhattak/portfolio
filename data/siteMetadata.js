@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://mhamzakhattak.vercel.app',
   siteRepo: 'https://github.com/mhamzakhattak/portfolio',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/hamxa1.png',
   image: '/static/images/hamxa1.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'mhamzakhattak@proton.me',
