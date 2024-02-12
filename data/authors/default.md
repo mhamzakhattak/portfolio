@@ -8,8 +8,8 @@ linkedin: https://www.linkedin.com/in/mhamzakhattak
 github: https://github.com/mhamzakhattak
 ---
 
-### Hey 👋 Its
-## Hamza Khattak
+# Hey 👋 Its
+# Hamza Khattak 👋
 🚀 A Guy in Cyber Security . Crafting Code & Breaking Applications 👻
 
 
@@ -53,10 +53,10 @@ github: https://github.com/mhamzakhattak
 - **Red Team Lead** at [Air University Cyber Security Society](https://aucss.live/) (2023 - Present)
 - **CTF PLAYER** at `TryHackMe` / `HacktheBox` / `PG-Play` / `CTFTimes` (2022 - Present)
 
-### Hackthebox
+### HackTheBox
 ![Hackthebox](/static/images/hackthebox.png)
 
-### TryHackme
+### TryHackMe
 ![TryHackMe](/static/images/tryhackme.png)
 
 
