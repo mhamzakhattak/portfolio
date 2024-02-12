@@ -8,10 +8,9 @@ linkedin: https://www.linkedin.com/in/mhamzakhattak
 github: https://github.com/mhamzakhattak
 ---
 
-
 ### Hey 👋 Its
 # Hamza Khattak
-## 🚀 A Guy in Cyber Security . Crafting Code & Breaking Applications. {/**/}.
+### 🚀 A Guy in Cyber Security . Crafting Code & Breaking Applications. {/**/}.
 
 ## Skills
 
