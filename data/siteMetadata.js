@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Kh4tt4k',
+  title: 'kh4tt4k',
   author: 'Hamza Khattak',
-  headerTitle: 'Kh4tt4k',
+  headerTitle: 'kh4tt4k',
   description: 'All my thoughts/ideas in one place',
   language: 'en-us',
   theme: 'system', // system, dark or light
