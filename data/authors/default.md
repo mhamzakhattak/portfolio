@@ -51,7 +51,14 @@ github: https://github.com/mhamzakhattak
 ## Additional Experiences
 
 - **Red Team Lead** at [Air University Cyber Security Society](https://aucss.live/) (2023 - Present)
-- **CTF PLAYER** at TryHackMe / HacktheBox / PG-Play / CTFTimes (2022 - Present)
+- **CTF PLAYER** at `TryHackMe` / `HacktheBox` / `PG-Play` / `CTFTimes` (2022 - Present)
+
+### Hackthebox
+![Hackthebox](/static/images/hackthebox.png)
+
+### TryHackme
+![TryHackMe](/static/images/tryhackme.png)
+
 
 ## Reach out to me
 
