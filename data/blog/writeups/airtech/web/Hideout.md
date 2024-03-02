@@ -10,7 +10,7 @@ draft: false
 
 ![challenge discription](/static/writeups/airtech/HideOut/chall_discription.png)
 
-Starting with a simple analysis, we saw a static web page with a single input field designed for entering a secret password.
+Starting with a simple analysis, we observed a static web page with a single input field designed for entering a secret password.
 
 ![index page](/static/writeups/airtech/HideOut/secretpass.png)
 
@@ -63,7 +63,7 @@ Let's break down the code:
 
 - Inside the if block, if the submitted password matches the generated random value, it echoes a success message along with the flag `($flag)`. If not, it echoes an error message.
 
-- `die`;: Terminates the script execution immediately after processing the form, preventing any further code execution.
+- `die;`: Terminates the script execution immediately after processing the form, preventing any further code execution.
 
 ### Potential issues with the code:
 
@@ -81,6 +81,8 @@ curl http://170.187.248.180:3001/index.php  --data 'secretpasswd=t&fani=t'
 ```
 ### Response
 ![flag](/static/writeups/airtech/HideOut/flag.png)
+
+
 Hence, we obtained our flag, marking our first blood in this challenge. Got a Bugcrowd sticker too! xD.
 
 ### ***kh4tt4k***
