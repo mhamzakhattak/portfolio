@@ -19,7 +19,8 @@ github: https://github.com/mhamzakhattak
 - **Platforms**: Linux, Windows, Vercel, AWS, Azure, GCP, DigitalOcean, Cloudflare
 
 ## Achievements
-
+- **1st Place** in [AirTech CTF Final](https://auair.tech/) on-site 2024
+- **2nd Place** in [SoftTech CTF Final](https://softecnu.org/) on-site 2024
 - **32nd Place** in [Black Hat MEA 2023 World Final](https://blackhatmea.com/capture-the-flag)
 - **2nd Place** in [ByteBolt CTF](https://www.byteboltsec.com/) organized by ByteBoltSec, online (2023)
 - **3rd Place** in [Digital Pakistan Cyber Security Hackathon](https://cyberhackathon.pk/) (2023)
