@@ -6,7 +6,7 @@ draft: false
 ---
 
 ### Description:
-> “Evil-Corp launched their public website for users to access their data. Unfortunately, BANDITS hackers breached the admin account and stole sensitive information.”
+> Evil-Corp launched their public website for users to access their data. Unfortunately, BANDITS hackers breached the admin account and stole sensitive information.
 
 ![challenge discription](/static/writeups/airtech/HideOut/chall_discription.png)
 
@@ -31,7 +31,7 @@ http://170.187.248.180:3001/index.php.bak
 ![php source code](/static/writeups/airtech/HideOut/source-code.png)
 
 ### PHP Code Analysis
-```
+```python
 <?php
 include 'flag.php';
 
@@ -69,7 +69,8 @@ Let's break down the code:
 
 - The use of `extract($_POST)`; can be risky and may lead to security vulnerabilities if not handled carefully.
 
-> “PHP has a function named extract() to take all provided GET and POST requests and assign them to internal variables. Developers will, at times, use this function instead of manually assigning $_POST[var1] to $var1. This function will overwrite any previously defined variables, including server variables. Extract() has options which prevent overwriting previously-defined variables, however this safety is not enabled by default, and developers might not enable the safety, just as many do not perform input validation. This vulnerability is similar in design to the register globals vulnerabilities present in PHP.”
+> PHP has a function named `extract()` to take all provided GET and POST requests and assign them to internal variables. Developers will, at times, use this function instead of manually assigning `$_POST[var1]` to `$var1`. This function will overwrite any previously defined variables, including server variables. `Extract()` has options which prevent overwriting previously-defined variables, however this safety is not enabled by default, and developers might not enable the safety, just as many do not perform input validation. This vulnerability is similar in design to the register globals vulnerabilities present in PHP.
+
 [Source](https://github.com/HackThisSite/CTF-Writeups/blob/master/2016/SCTF/Ducks/README.md)
 
 
