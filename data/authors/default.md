@@ -39,12 +39,14 @@ github: https://github.com/mhamzakhattak
 
 ## Certifications
 
+- Certified Professional Penetration Tester (eCPPTv2) [INE Security](https://certs.ine.com/d9cc55cc-f7c6-4c61-b924-898785391367)
 - CERTIFIED NETWORK SECURITY PRACTITIONER (CNSP) - [The SecOps Group](https://secops.group/product/certified-network-security-practitioner/)
 - NETWORK SECURITY EXPERT (NSE-3) - [Fortinet](https://www.fortinet.com/nse-training)
 - JUNIOR PENETRATION TESTER (JPT) - [TryHackMe](https://tryhackme.com/path/outline/jrpenetrationtester)
 
 ## Projects
 
+- [**Evil-Discord**] - A Discord Stealer (Zookeeper) is a sophisticated malware tool that exploits Discord tokens and channels for communication (C2), utilizing emoji-based triggers to perform actions. It creates clients, employs a unique method of persistence, detects USB devices, steals data, and can dynamically change the runtime Discord bot token and Discord ID.
 - [**video2text**](https://github.com/mhamzakhattak/video2text) - Video2text is a python based tool that extracts text from a video using Optical Character Recognition (OCR). It utilizes the OpenCV library for video processing and the pytesseract library for performing OCR.
 - [**Gmail Phisher**](https://github.com/mhamzakhattak/Gphisher) - Gmail Phisher is a powerful and user-friendly web based tool that is designed for conducting Gmail phishing attacks with ease.
 - [**Textor**](https://github.com/mhamzakhattak/Textor) - Textor is a GUI-based application written in Python that allows users to create, modify, and delete text files.
