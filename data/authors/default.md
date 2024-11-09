@@ -30,8 +30,8 @@ github: https://github.com/mhamzakhattak
 
 ## Experience
 - **Security Engineer** at [Tecvity](https://tecvity.co/) (2024 - Present) [Remote]
-- **CYBERSECURITY & INFORMATION SECURITY FREELANCER** at [UpWork](https://www.upwork.com/) (2021 - Present) [Remote]
-- **INFORMATION SECURITY INTERN** at [AirOverFlow](https://airoverflow.com/) (September 2021 - April 2022) [On-Site]
+- **FREELANCER** at [UpWork](https://www.upwork.com/) (2021 - Present) [Remote]
+- **IS INTERN** at [AirOverFlow](https://airoverflow.com/) (September 2021 - April 2022) [On-Site]
 
 
 ## Education
