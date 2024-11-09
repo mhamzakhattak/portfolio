@@ -1,20 +1,20 @@
 ---
 name: Hamza Khattak
 avatar: /static/images/hamxa.jpg
-occupation: Security Analyst & CTF Player
+occupation:  A CTF Player & Security Engineer
 email: mhamzakhattak@proton.me
-twitter: https://twitter.com/oo1d14a_ktk
+twitter: https://twitter.com/mhamxakhattak
 linkedin: https://www.linkedin.com/in/mhamzakhattak
 github: https://github.com/mhamzakhattak
 ---
 
 # Hey 👋 Its
 # Hamza Khattak 👋
-🚀 A Guy in Cyber Security . Crafting Code & Breaking Applications 👻
+🚀 A Guy in Cyber Security. Crafting Code & Breaking Applications 👻
 
 
 ## Skills
-- **Tools & Frameworks**: Nessus, Metasploit, Burp Suite, Cobalt Strike, Nmap, Impacket,IDA Pro, GDB, Volality, Autopsy, Magnet AXIOM, Kubernetes, Docker
+- **Tools & Frameworks**: Nessus, Metasploit, Burp Suite, Cobalt Strike, Nmap, Impacket, IDA Pro, GDB, Volatility, Autopsy, Magnet AXIOM, Kubernetes, Docker
 - **Programming Languages**: Python, C, C++, PHP, JavaScript, Bash, PowerShell, Go
 - **Platforms**: Linux, Windows, Vercel, AWS, Azure, GCP, DigitalOcean, Cloudflare
 
@@ -29,12 +29,12 @@ github: https://github.com/mhamzakhattak
 - **5th Place** in NasCon'23 CTF organized by FAST NUCES, on-site in Islamabad (2023)
 
 ## Experience
-
+- **Security Engineer** at [Tecvity](https://tecvity.co/) (2024 - Present) [Remote]
 - **CYBERSECURITY & INFORMATION SECURITY FREELANCER** at [UpWork](https://www.upwork.com/) (2021 - Present) [Remote]
 - **INFORMATION SECURITY INTERN** at [AirOverFlow](https://airoverflow.com/) (September 2021 - April 2022) [On-Site]
 
-## Education
 
+## Education
 - **Bachelors in Cyber Security** from [Air University, Islamabad](https://au.edu.pk/) (2021 - 2025)
 
 ## Certifications
@@ -45,10 +45,10 @@ github: https://github.com/mhamzakhattak
 - JUNIOR PENETRATION TESTER (JPT) - [TryHackMe](https://tryhackme.com/path/outline/jrpenetrationtester)
 
 ## Projects
-
-- [**Evil-Discord**] - A Discord Stealer (Evil-Discord) is a sophisticated malware tool that exploits Discord tokens and channels for communication (C2), utilizing emoji-based triggers to perform actions. It creates clients, employs a unique method of persistence, detects USB devices, steals data, and can dynamically change the runtime Discord bot token and Discord ID.
-- [**video2text**](https://github.com/mhamzakhattak/video2text) - Video2text is a python based tool that extracts text from a video using Optical Character Recognition (OCR). It utilizes the OpenCV library for video processing and the pytesseract library for performing OCR.
-- [**Gmail Phisher**](https://github.com/mhamzakhattak/Gphisher) - Gmail Phisher is a powerful and user-friendly web based tool that is designed for conducting Gmail phishing attacks with ease.
+- **ParadoxAI** - ParadoxAI is an app and browser extension currently under development, designed to detect misinformation campaigns and AI-generated content across the internet. By leveraging advanced algorithms and machine learning, ParadoxAI will analyze online content for patterns and anomalies, helping users identify and avoid manipulated or artificially generated information.
+- **MalCord** - MalCord Stealer is a sophisticated malware tool that utilizes emoji-based triggers for covert command execution. It features command and control (C2), data exfiltration, browser password stealing, session token hijacking, and connected device scanning to expand its attack surface. MalCord can detect USB devices for data exfiltration or payload deployment and employs a unique persistence method to maintain long-term access.
+- [**GPhisher**](https://github.com/mhamzakhattak/Gphisher) - GPhisher is a clone web app designed for conducting Gmail phishing attacks. Currently, work is underway to create phishlets for Gmail Phisher using EvilGinx, which will leverage its reverse proxy capabilities to enable more advanced and evasive phishing techniques, allowing seamless credential harvesting while bypassing security measures like multi-factor authentication (MFA) and CAPTCHA protections.
+- [**video2text**](https://github.com/mhamzakhattak/video2text) - Video2Text is a Python-based tool designed to extract text from videos using Optical Character Recognition (OCR). It leverages the OpenCV library for video processing and the pytesseract library to perform OCR, enabling efficient text extraction from video frames.
 - [**Textor**](https://github.com/mhamzakhattak/Textor) - Textor is a GUI-based application written in Python that allows users to create, modify, and delete text files.
 
 ## Additional Experiences
