@@ -67,7 +67,7 @@ github: https://github.com/mhamzakhattak
 
 - Discord: `kh4tt4k`
 - Email: `mhamzakhattak@proton.me`
-- Twitter: [@oo1d14a_ktk](https://twitter.com/oo1d14a_ktk)
+- Twitter: [@oo1d14a_ktk](https://twitter.com/mhamxakhattak)
 - LinkedIn: [@mhamzakhattak](https://www.linkedin.com/in/mhamzakhattak)
 - GitHub: [mhamzakhattak](https://github.com/mhamzakhattak)
 - Website: [mhamzakhattak.vercel.app](https://mhamzakhattak.vercel.app)
