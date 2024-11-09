@@ -16,6 +16,7 @@ During the investigation of a compromised machine, it was discovered that an imp
 **Flag format/example:** `BHFlagY{cmd.exe_29/12/1992_22:33:13}`
 
 ---
+
 ![artifact](/static/writeups/blackhat2024/artifact/1.png)
 
 ### Solution Walkthrough
