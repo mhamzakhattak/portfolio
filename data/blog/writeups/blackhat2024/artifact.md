@@ -17,7 +17,7 @@ During the investigation of a compromised machine, it was discovered that an imp
 
 ---
 
-![artifact](/static/writeups/blackhat2024/artifact/1.png)
+![artifact](/static/writeups/blackhat2024/artifact/1.PNG)
 
 ### Solution Walkthrough
 
@@ -33,7 +33,7 @@ ControlSet001\Control\Session Manager\AppCompatCache
 
 The **AppCompatCache** key is known for storing details about executables that have been run on the system, including their execution timestamps. According to the data extracted, **DeadPotato-NET4.exe** was executed on **09/08/2024 at 22:42:13**, which matched the format needed to solve the flag.
 
-![data_extracted](/static/writeups/blackhat2024/artifact/2.png)
+![data_extracted](/static/writeups/blackhat2024/artifact/1.PNG)
 
 ### Final Flag:
 `BHFlagY{DeadPotato-NET4.exe_09/08/2024_22:42:13}`
