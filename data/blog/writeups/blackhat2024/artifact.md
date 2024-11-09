@@ -1,8 +1,12 @@
-# Forensics Writeups | BlackHat MEA CTF Qualification 2024
+---
+title: Blackhat MEA '24 Quals - Forensics - Artifact
+date: '2024-09-11'
+tags: ['BLACKCTF2024', 'BLACKHATMEA','FORENSICS', 'Artifact','Windows Artifact']
+draft: false
+---
+> BlackHat Conference is a renowned cybersecurity event where experts discuss the latest trends and research in the field. It includes a challenging Capture The Flag (CTF) competition that tests participants’ hacking and security skills. I personally experienced the Online Qualifying Round, which was both challenging and fun, and it further highlights the high caliber of the BlackHat CTF
 
 ![title](/static/writeups/blackhat2024/artifact/1.png)
-
-### Challenge Name: Artifact (Easy)
 
 **Description:**  
 During the investigation of a compromised machine, it was discovered that an impersonation tool had been executed. The Digital Forensics and Incident Response (DFIR) team provided a specific registry hive for analysis. Your task is to identify the name of the executable associated with the impersonation tool and determine its earliest suspected execution time on the affected machine.  
