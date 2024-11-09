@@ -6,7 +6,7 @@ draft: false
 ---
 > BlackHat Conference is a renowned cybersecurity event where experts discuss the latest trends and research in the field. It includes a challenging Capture The Flag (CTF) competition that tests participants’ hacking and security skills. I personally experienced the Online Qualifying Round, which was both challenging and fun, and it further highlights the high caliber of the BlackHat CTF
 
-![title](/static/writeups/blackhat2024/artifact/1.png)
+![title](/static/writeups/blackhat2024/artifact/1.PNG)
 
 **Description:**  
 During the investigation of a compromised machine, it was discovered that an impersonation tool had been executed. The Digital Forensics and Incident Response (DFIR) team provided a specific registry hive for analysis. Your task is to identify the name of the executable associated with the impersonation tool and determine its earliest suspected execution time on the affected machine.  
@@ -26,7 +26,7 @@ This file was located in the following registry path:
 
 The **AppCompatCache** key is known for storing details about executables that have been run on the system, including their execution timestamps. According to the data extracted, **DeadPotato-NET4.exe** was executed on **09/08/2024 at 22:42:13**, which matched the format needed to solve the flag.
 
-![output](/static/writeups/blackhat2024/artifact/2.png)
+![output](/static/writeups/blackhat2024/artifact/2.PNG)
 
 ### Final Flag:
 BHFlagY{DeadPotato-NET4.exe_09/08/2024_22:42:13}
