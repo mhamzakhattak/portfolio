@@ -36,7 +36,7 @@ The **AppCompatCache** key is known for storing details about executables that h
 ![data_extracted](/static/writeups/blackhat2024/artifact/2.png)
 
 ### Final Flag:
-BHFlagY{DeadPotato-NET4.exe_09/08/2024_22:42:13}
+`BHFlagY{DeadPotato-NET4.exe_09/08/2024_22:42:13}`
 
 This challenge underscores the significance of registry forensics in detecting and investigating suspicious activities on a system. By utilizing tools like **RegRipper**, forensic analysts can swiftly extract crucial evidence from registry hives, aiding in their overall investigation.
 
